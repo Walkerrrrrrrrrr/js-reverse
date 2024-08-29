@@ -7,6 +7,8 @@
   ![Static Badge](https://img.shields.io/badge/Node.js-v18.16.1-blue?logo=Node.js&labelColor=black)
 ## 小红书加密算法在8.28更新（最新），已成功逆向，能够正常获取到内容！！！
 ## 声明
+**本项目仅供学习交流，严禁用于任何商业和非法用途，非本人使用而产生的纠纷与一切后果均与本人无关。**
+
 
 ## 作者提供的服务
 
