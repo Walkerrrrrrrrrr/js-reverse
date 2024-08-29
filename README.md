@@ -10,8 +10,26 @@
 
 ## 作者提供的服务
 
-1.xhs
+## 1.XHS
 <img alt="image" src="./img/xhs.png"/>
+
+## 2.DY-已支持
+<img alt="image" src=""/>
+
+## 3.KS-已支持
+<img alt="image" src=""/>
+
+## 4.PDD
+<img alt="image" src="./img/pdd.png"/>
+
+## 5.JIYAN3-无感/滑块
+<img alt="image" src="./img/geet-full.png"/>
+
+## 6.JIYAN4-无感/滑块
+<img alt="image" src="./img/geet4-full.png"/>
+
+## 7.SHUMEI-滑块
+<img alt="image" src="./img/shumei-slide.png"/>
 
 
 ## 作者联系方式 || 寻求帮助 || 合作
