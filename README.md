@@ -21,8 +21,8 @@
 ## 3.KS-已支持 
 <img alt="image" src=""/> 
 
-## 4.PDD 
-<img alt="image" src="./img/pdd.png"/>
+## 4.PDD   
+<img alt="image" src="./img/pdd.png"/>  
 
 ## 5.JIYAN3-无感/滑块
 <img alt="image" src="./img/geet-full.png"/> 
@@ -34,7 +34,7 @@
 <img alt="image" src="./img/shumei-slide.png"/> 
 
  
-## 作者联系方式 || 寻求帮助 || 合作    
+## 作者联系方式 || 寻求帮助 || 合作  
 ## 以上仅展示部分实例，如有其它接口需求，可定制开发。  
 ### QQ: 552345133   
 ### VX: kjq996   
