@@ -10,7 +10,7 @@
 **本项目仅供学习交流，严禁用于任何商业和非法用途，非本人使用而产生的纠纷与一切后果均与本人无关。**
 
 
-## 作者提供的服务   
+## 作者提供的服务 
   
 ## 1.XHS 
 <img alt="image" src="./img/xhs.png"/> 
@@ -21,7 +21,7 @@
 ## 3.KS-已支持 
 <img alt="image" src=""/>  
 
-## 4.PDD   
+## 4.PDD
 <img alt="image" src="./img/pdd.png"/>   
 
 ## 5.JIYAN3-无感/滑块 
