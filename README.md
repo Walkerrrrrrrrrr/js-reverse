@@ -19,7 +19,7 @@
 <img alt="image" src="./img/douyin.png"/>  
 
 ## 3.KS-已支持 
-<img alt="image" src=""/>  
+<img alt="image" src=""/>    
 
 ## 4.PDD  
 <img alt="image" src="./img/pdd.png"/>     
