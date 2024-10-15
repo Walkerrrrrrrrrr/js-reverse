@@ -25,7 +25,7 @@
 <img alt="image" src="./img/pdd.png"/>     
 
 ## 5.JIYAN3-无感/滑块 
-<img alt="image" src="./img/geet-full.png"/> 
+<img alt="image" src="./img/geet-full.png"/>  
 
 ## 6.JIYAN4-无感/滑块 
 <img alt="image" src="./img/geet4-full.png"/> 
