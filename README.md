@@ -30,7 +30,7 @@
 ## 6.JIYAN4-无感/滑块  
 <img alt="image" src="./img/geet4-full.png"/>    
 
-## 7.SHUMEI-滑块    
+## 7.SHUMEI-滑块      
 <img alt="image" src="./img/shumei-slide.png"/>    
 
  
