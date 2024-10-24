@@ -31,10 +31,10 @@
 <img alt="image" src="./img/geet4-full.png"/> 
 
 ## 7.SHUMEI-滑块    
-<img alt="image" src="./img/shumei-slide.png"/>  
+<img alt="image" src="./img/shumei-slide.png"/> 
 
  
 ## 作者联系方式 || 寻求帮助 || 合作 
 ## 以上仅展示部分实例，如有其它接口需求，可定制开发。  
-### QQ: 552345133   
+### QQ: 552345133 
 ### VX: kjq996 
