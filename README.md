@@ -12,14 +12,14 @@
 
 ## 作者提供的服务   
   
-## 1.XHS  
-<img alt="image" src="./img/xhs.png"/>   
+## 1.XHS   
+<img alt="image" src="./img/xhs.png"/>  
 
 ## 2.DY-已支持    
-<img alt="image" src="./img/douyin.png"/>   
+<img alt="image" src="./img/douyin.png"/>  
 
 ## 3.KS-已支持 
-<img alt="image" src=""/>    
+<img alt="image" src=""/>   
 
 ## 4.PDD   
 <img alt="image" src="./img/pdd.png"/> 
