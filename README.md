@@ -19,10 +19,10 @@
 <img alt="image" src="./img/douyin.png"/> 
 
 ## 3.KS-已支持 
-<img alt="image" src=""/>  
+<img alt="image" src=""/> 
 
 ## 4.PDD 
-<img alt="image" src="./img/pdd.png"/>  
+<img alt="image" src="./img/pdd.png"/> 
   
 ## 5.JIYAN3-无感/滑块  
 <img alt="image" src="./img/geet-full.png"/>
