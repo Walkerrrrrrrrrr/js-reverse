@@ -13,10 +13,10 @@
 ## 作者提供的服务 
   
 ## 1.XHS   
-<img alt="image" src="./img/xhs.png"/>    
+<img alt="image" src="./img/xhs.png"/>  
 
 ## 2.DY-已支持  
-<img alt="image" src="./img/douyin.png"/> 
+<img alt="image" src="./img/douyin.png"/>
 
 ## 3.KS-已支持 
 <img alt="image" src=""/>
@@ -37,4 +37,4 @@
 ## 作者联系方式 || 寻求帮助 || 合作 
 ## 以上仅展示部分实例，如有其它接口需求，可定制开发。  
 ### QQ: 552345133 
-### VX: kjq996 
+### VX: kjq996
