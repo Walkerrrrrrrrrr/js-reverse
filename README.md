@@ -5,7 +5,8 @@
   ![Static Badge](https://img.shields.io/badge/GitHub-blue?logo=GitHub&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/author-3.7/3.8-blue?logo=Python&label=python&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/Node.js-v18.16.1-blue?logo=Node.js&labelColor=black)
-## 小红书加密算法在1.07更新（最新），已成功逆向，能够正常获取到内容！！！
+## 小红书加密算法6.24（最新），已成功逆向，能够正常获取到内容！！！
+## 小红书加密算法 (8.80+版本) shield
 ## 声明
 **本项目仅供学习交流，严禁用于任何商业和非法用途，非本人使用而产生的纠纷与一切后果均与本人无关。**
  
